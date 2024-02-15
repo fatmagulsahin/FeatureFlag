@@ -22,7 +22,7 @@ spec:
     spec:
       containers:
         - name: featureflag
-          image: fatmagulsahin/featureflag:17
+          image: fatmagulshn/featureflag:22
           imagePullPolicy: Always
           ports:
             - containerPort: 80
